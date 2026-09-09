@@ -1,0 +1,122 @@
+[
+  {
+    "id": "shelter-001",
+    "name": "Nagpur Central Shelter",
+    "type": "shelter",
+    "latitude": 21.1458,
+    "longitude": 79.0882,
+    "capacity": 200,
+    "currentOccupancy": 124,
+    "status": "available"
+  },
+  {
+    "id": "shelter-002",
+    "name": "Dharampeth Community Shelter",
+    "type": "shelter",
+    "latitude": 21.135,
+    "longitude": 79.075,
+    "capacity": 150,
+    "currentOccupancy": 96,
+    "status": "available"
+  },
+  {
+    "id": "shelter-003",
+    "name": "Manewada Relief Shelter",
+    "type": "shelter",
+    "latitude": 21.12,
+    "longitude": 79.125,
+    "capacity": 120,
+    "currentOccupancy": 120,
+    "status": "full"
+  },
+  {
+    "id": "shelter-004",
+    "name": "Kamptee Road Shelter",
+    "type": "shelter",
+    "latitude": 21.17,
+    "longitude": 79.1,
+    "capacity": 180,
+    "currentOccupancy": 71,
+    "status": "available"
+  },
+  {
+    "id": "hospital-001",
+    "name": "Mayo General Hospital",
+    "type": "hospital",
+    "latitude": 21.15,
+    "longitude": 79.07,
+    "capacity": 80,
+    "currentOccupancy": 42,
+    "status": "available"
+  },
+  {
+    "id": "hospital-002",
+    "name": "Wardha Road District Hospital",
+    "type": "hospital",
+    "latitude": 21.105,
+    "longitude": 79.11,
+    "capacity": 60,
+    "currentOccupancy": 60,
+    "status": "full"
+  },
+  {
+    "id": "hospital-003",
+    "name": "Ramdaspeth City Hospital",
+    "type": "hospital",
+    "latitude": 21.13,
+    "longitude": 79.06,
+    "capacity": 45,
+    "currentOccupancy": 18,
+    "status": "available"
+  },
+  {
+    "id": "hospital-004",
+    "name": "Hingna Trauma Care Centre",
+    "type": "hospital",
+    "latitude": 21.09,
+    "longitude": 79.015,
+    "capacity": 50,
+    "currentOccupancy": 0,
+    "status": "available"
+  },
+  {
+    "id": "rescue-001",
+    "name": "Nagpur Fire & Rescue Unit 1",
+    "type": "rescue_team",
+    "latitude": 21.155,
+    "longitude": 79.095,
+    "capacity": 25,
+    "currentOccupancy": 0,
+    "status": "available"
+  },
+  {
+    "id": "rescue-002",
+    "name": "Sitabuldi Rescue Squad",
+    "type": "rescue_team",
+    "latitude": 21.14,
+    "longitude": 79.1,
+    "capacity": 20,
+    "currentOccupancy": 0,
+    "status": "dispatched"
+  },
+  {
+    "id": "rescue-003",
+    "name": "Pardi Emergency Response Team",
+    "type": "rescue_team",
+    "latitude": 21.125,
+    "longitude": 79.055,
+    "capacity": 15,
+    "currentOccupancy": 0,
+    "status": "available"
+  },
+  {
+    "id": "rescue-004",
+    "name": "Ajni Disaster Response Team",
+    "type": "rescue_team",
+    "latitude": 21.115,
+    "longitude": 79.08,
+    "capacity": 18,
+    "currentOccupancy": 0,
+    "status": "available"
+  }
+]
